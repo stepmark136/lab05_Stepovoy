@@ -1,0 +1,14 @@
+C:\Users\Student_11\Downloads\lab05_Stepovoy-main\TextAnalyzer\bin\Debug\net10.0\TextAnalyzer.exe
+C:\Users\Student_11\Downloads\lab05_Stepovoy-main\TextAnalyzer\bin\Debug\net10.0\TextAnalyzer.deps.json
+C:\Users\Student_11\Downloads\lab05_Stepovoy-main\TextAnalyzer\bin\Debug\net10.0\TextAnalyzer.runtimeconfig.json
+C:\Users\Student_11\Downloads\lab05_Stepovoy-main\TextAnalyzer\bin\Debug\net10.0\TextAnalyzer.dll
+C:\Users\Student_11\Downloads\lab05_Stepovoy-main\TextAnalyzer\bin\Debug\net10.0\TextAnalyzer.pdb
+C:\Users\Student_11\Downloads\lab05_Stepovoy-main\TextAnalyzer\obj\Debug\net10.0\TextAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student_11\Downloads\lab05_Stepovoy-main\TextAnalyzer\obj\Debug\net10.0\TextAnalyzer.AssemblyInfoInputs.cache
+C:\Users\Student_11\Downloads\lab05_Stepovoy-main\TextAnalyzer\obj\Debug\net10.0\TextAnalyzer.AssemblyInfo.cs
+C:\Users\Student_11\Downloads\lab05_Stepovoy-main\TextAnalyzer\obj\Debug\net10.0\TextAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\Student_11\Downloads\lab05_Stepovoy-main\TextAnalyzer\obj\Debug\net10.0\TextAnalyzer.dll
+C:\Users\Student_11\Downloads\lab05_Stepovoy-main\TextAnalyzer\obj\Debug\net10.0\refint\TextAnalyzer.dll
+C:\Users\Student_11\Downloads\lab05_Stepovoy-main\TextAnalyzer\obj\Debug\net10.0\TextAnalyzer.pdb
+C:\Users\Student_11\Downloads\lab05_Stepovoy-main\TextAnalyzer\obj\Debug\net10.0\TextAnalyzer.genruntimeconfig.cache
+C:\Users\Student_11\Downloads\lab05_Stepovoy-main\TextAnalyzer\obj\Debug\net10.0\ref\TextAnalyzer.dll
